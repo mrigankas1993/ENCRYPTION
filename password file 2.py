@@ -11,3 +11,4 @@ def distinct_password(input1, input2):
                 break
     return distinct
 print(distinct_password(2, ['abcd', 'cdab']))
+print("password done")
